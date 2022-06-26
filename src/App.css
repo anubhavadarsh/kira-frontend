@@ -1,8 +1,19 @@
 .App {
-  background-color: #282c34;
+  background-color: #ffffff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.imgCont {
+  width: 250px;
+  height: 250px;
+  margin-bottom: 50px;
+}
+
+.img {
+  width: 100%;
+  height: 100%;
 }

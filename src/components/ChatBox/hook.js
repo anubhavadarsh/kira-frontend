@@ -1,5 +1,3 @@
-import config from "../../config";
-
 const useGetAnswer = () => {
   const getAnswer = (question, setAnswer) => {
     (async () => {

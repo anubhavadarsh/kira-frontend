@@ -8,7 +8,7 @@
   flex-direction: column;
   align-items: stretch;
   justify-content: center;
-  background-color: white;
+  background-color: black;
   border-radius: 8px;
 
   -webkit-box-shadow: -1px 0px 13px 0px rgba(237, 237, 237, 1);
@@ -22,4 +22,5 @@
   font-family: var(--font-family-inter-light);
   font-weight: 300;
   overflow-wrap: break-word;
+  color: white;
 }
